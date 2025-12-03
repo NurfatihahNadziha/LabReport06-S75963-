@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#question-area {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.option-btn {
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    padding: 10px;
+    background: #e0e0e0;
+    border: none;
+    border-radius: 4px;
+}
+
+#nextBtn {
+    margin-top: 20px;
+    padding: 10px 15px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 18px;
+}
